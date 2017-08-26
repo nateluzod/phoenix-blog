@@ -6,7 +6,7 @@ defmodule Pxblog.PostsTest do
   describe "posts" do
     alias Pxblog.Posts.Post
 
-    @valid_attrs %{body: "some body", title: "some title"}
+    @valid_attrs %{email: "test@test.com", password: "test1234", password_confirmation: "test1234", username: "testuser"}
     @update_attrs %{body: "some updated body", title: "some updated title"}
     @invalid_attrs %{body: nil, title: nil}
 

@@ -1,4 +1,6 @@
-# Pxblog
+# Phoenix Blog
+
+Working through [Hackernoon](https://hackernoon.com/introduction-fe138ac6079d) guide on standing up a blog. Deploying to Heroku.
 
 To start your Phoenix server:
 
